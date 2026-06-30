@@ -5,7 +5,7 @@ main = "src/index.ts"
 workers_dev = false
 
 vars = { ENVIRONMENT = "production" }
-route = { pattern = "paste.rusin7.com", custom_domain = true }
+route = { pattern = "paste.rusin.dpdns.org", custom_domain = true }
 
 kv_namespaces = [
   { binding = "PB", id = "af047c6ce2c04feebd906a86399ca59c" },
